@@ -50,20 +50,6 @@ python-mini-course/
                 |   LICENSE
                 |   README.md
                 |   requirements.txt
-                |   structure.txt
-                |   
-                |       pc-00-checkpoint.ipynb
-                |       pc_00-checkpoint.ipynb
-                |       pc_01-checkpoint.ipynb
-                |       pc_02-checkpoint.ipynb
-                |       pc_03-checkpoint.ipynb
-                |       pc_04-checkpoint.ipynb
-                |       pc_05-checkpoint.ipynb
-                |       pc_06-checkpoint.ipynb
-                |       pc_07-checkpoint.ipynb
-                |       pc_08-checkpoint.ipynb
-                |       pc_09-checkpoint.ipynb
-                |       pc_10-checkpoint.ipynb
                 |       
                 \---notebook
                         pc_00.ipynb
