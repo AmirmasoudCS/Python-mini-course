@@ -40,7 +40,7 @@ Inside the notebooks/ folder:
     ```
     jupyter lab
     ```
-4. Folder Structure:
+4. Folder Structure:"\n"
     /notebooks  → all course files  
     /numpy -> all numpy course files
 
