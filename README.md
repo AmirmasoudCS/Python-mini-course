@@ -1,32 +1,84 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
 # Python-mini-course
-All files for the Python mini course we covered in Sharekord University.
-Welcome!
-This repository contains all Jupyter Notebook files for Python course.
+This repository contains all Jupyter Notebook materials used in the Python Mini Course taught at Shahrekord University.
+The course covers Python fundamentals from basic syntax to working with files and some introductions to numpy library.
 
-📘 Notebooks
+## 📘 Course Notebooks
 Inside the notebooks/ folder:
- pc_00 – Introduction  
- pc_01 – Variables & Data Types  
- pc_02 – Input & Output  
- pc_03 – Operators & Expressions  
- pc_04 – Conditionals  
- pc_05 – Loops  
- pc_06 – Data Structures  
- pc_07 – Functions  
- pc_08 – Modules & Libraries  
- pc_09 – File Handling  
- pc_10 – Final Project
+- **pc_00** – Introduction  
+- **pc_01** – Variables & Data Types  
+- **pc_02** – Input & Output  
+- **pc_03** – Operators & Expressions  
+- **pc_04** – Conditionals  
+- **pc_05** – Loops  
+- **pc_06** – Data Structures  
+- **pc_07** – Functions  
+- **pc_08** – Modules & Libraries  
+- **pc_09** – File Handling  
+- **pc_10** – Final Project
 
-📦 How to use
+## 🧰 Requirements
+- Python 3.10+
+- VS Code
+- Jupyter Lab or Jupyter Notebook (optional)
+
+
+## 🚀 How to Use
 1. Clone the repository:
-    git clone https://github.com/AmirmasoudCS/Python-mini-course.git
+    ```bash
+    git clone https://github.com/AmirmasoudCS/Python-mini-course.git`
+    cd Python-mini-course
+    ```
 2. Install dependencies (optional):
+    ```bash
     pip install -r requirements.txt
+    ```
 3. Open Jupyter Lab:
+    ```
     jupyter lab
+    ```
 4. Folder Structure:
     /notebooks  → all course files  
     /numpy -> all numpy course files
 
-📜 License
-    MIT   
+## 📁 Folder Structure
+python-mini-course/
+                |   .gitignore
+                |   LICENSE
+                |   README.md
+                |   requirements.txt
+                |   structure.txt
+                |   
+                |       pc-00-checkpoint.ipynb
+                |       pc_00-checkpoint.ipynb
+                |       pc_01-checkpoint.ipynb
+                |       pc_02-checkpoint.ipynb
+                |       pc_03-checkpoint.ipynb
+                |       pc_04-checkpoint.ipynb
+                |       pc_05-checkpoint.ipynb
+                |       pc_06-checkpoint.ipynb
+                |       pc_07-checkpoint.ipynb
+                |       pc_08-checkpoint.ipynb
+                |       pc_09-checkpoint.ipynb
+                |       pc_10-checkpoint.ipynb
+                |       
+                \---notebook
+                        pc_00.ipynb
+                        pc_01.ipynb
+                        pc_02.ipynb
+                        pc_03.ipynb
+                        pc_04.ipynb
+                        pc_05.ipynb
+                        pc_06.ipynb
+                        pc_07.ipynb
+                        pc_08.ipynb
+                        pc_09.ipynb
+                        pc_10.ipynb
+                        
+
+
+## 📄 License
+MIT License   
