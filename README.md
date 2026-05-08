@@ -69,7 +69,7 @@ python-mini-course/
 ├── README.md
 ├── requirements.txt
 └── students.txt
-    ```            
+```            
 
 
 ## 📄 License
