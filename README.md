@@ -48,24 +48,28 @@ Inside the notebooks/ folder:
 ## 📁 Folder Structure
 ```
 python-mini-course/
-                |   .gitignore
-                |   LICENSE
-                |   README.md
-                |   requirements.txt
-                |       
-                \---notebook
-                        pc_00.ipynb
-                        pc_01.ipynb
-                        pc_02.ipynb
-                        pc_03.ipynb
-                        pc_04.ipynb
-                        pc_05.ipynb
-                        pc_06.ipynb
-                        pc_07.ipynb
-                        pc_08.ipynb
-                        pc_09.ipynb
-                        pc_10.ipynb
-```            
+├── mymodules/
+│   └── mymath.py
+├── notebook/
+│   ├── pc_00.ipynb
+│   ├── pc_01.ipynb
+│   ├── pc_02.ipynb
+│   ├── pc_03.ipynb
+│   ├── pc_04.ipynb
+│   ├── pc_05.ipynb
+│   ├── pc_06.ipynb
+│   ├── pc_07.ipynb
+│   ├── pc_08.ipynb
+│   ├── pc_09.ipynb
+│   ├── pc_10.ipynb
+│   └── professors.txt
+├── .gitignore
+├── GitHub_Lockup_Black.png
+├── LICENSE
+├── README.md
+├── requirements.txt
+└── students.txt
+    ```            
 
 
 ## 📄 License
