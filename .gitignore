@@ -230,3 +230,4 @@ __pycache__/
 Thumbs.db
 .vscode/
 tree_structure.txt
+tree_generator.py
