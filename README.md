@@ -88,4 +88,4 @@ python-mini-course/
 
 
 ## 📄 License
-MIT License   
+MIT [LICENSE](LICENSE).   
