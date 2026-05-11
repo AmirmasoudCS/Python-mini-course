@@ -19,8 +19,8 @@ Inside the python_notebooks/ folder:
 - 📄 **pc_07** – Functions  
 - 📄 **pc_08** – Modules & Libraries  
 - 📄 **pc_09** – File Handling  
-- 📄 **pc_10** – Final Project
-Inside numpy_notes folde/
+- 📄 **pc_10** – Final Project <br>
+Inside numpy_notes folder/
 - 📄 **Numpy** - Basic numpy library introduction
 ## 🧰 Requirements
 - Python 3.10+
