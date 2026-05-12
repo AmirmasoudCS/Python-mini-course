@@ -10,16 +10,16 @@ The course covers Python fundamentals from basic syntax to working with files an
 ## 📘 Course Notebooks
 ### Inside the python_notebooks/ folder:
 - 📄 **pc_00** – Introduction  
-- 📄 **pc_01** – Variables & Data Types  
-- 📄 **pc_02** – Input & Output  
-- 📄 **pc_03** – Operators & Expressions  
-- 📄 **pc_04** – Conditionals  
-- 📄 **pc_05** – Loops  
-- 📄 **pc_06** – Data Structures  
-- 📄 **pc_07** – Functions  
-- 📄 **pc_08** – Modules & Libraries  
-- 📄 **pc_09** – File Handling  
-- 📄 **pc_10** – Final Project <br>
+- 📄 **pc_01** – Installing dependencies 
+- 📄 **pc_02** – Variables & Data Types
+- 📄 **pc_03** – Input & Output  
+- 📄 **pc_04** – Operators
+- 📄 **pc_05** – Conditional Statements
+- 📄 **pc_06** – Loops
+- 📄 **pc_07** – Data Structures  
+- 📄 **pc_08** – Functions  
+- 📄 **pc_09** – Modules & Libraries  
+- 📄 **pc_10** – File Handling<br>
 ### Inside numpy_notes/ folder:
 - 📄 **Numpy** - Basic numpy library introduction
 ## 🧰 Requirements
